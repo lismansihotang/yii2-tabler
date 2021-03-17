@@ -6,6 +6,16 @@
         "yiisoft/yii2": "~2.0.41"
     },
     "license": "mit",
+    "autoload": {
+        "psr-0": {
+            "lismansihotang\\yii2tabler": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "lismansihotang\\yii2tabler": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Lisman Sihotang",

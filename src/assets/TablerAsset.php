@@ -6,7 +6,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\assets;
+namespace lismansihotang\yii2tabler\assets;
 
 use yii\web\AssetBundle;
 
