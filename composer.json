@@ -1,31 +1,15 @@
 {
     "name": "lismansihotang/yii2-tabler",
-    "description": "Tabler for Yii2",
-    "type": "yii2-extension",
-    "keywords": [
-        "yii2",
-        "extension",
-        "yii2-extension",
-        "tabler",
-    ],
-    "license": "MIT",
-    "support": {
-        "issues": "https://github.com/lismansihotang/yii2-tabler/issues"
+    "description": "Tabler for yii2",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "~2.0.41"
     },
+    "license": "mit",
     "authors": [
         {
             "name": "Lisman Sihotang",
             "email": "lisman.sihotang@gmail.com"
         }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {
-        "yiisoft/yii2": "~2.0.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "lismansihotang\\yii2-tabler\\": ""
-        }
-    }
+    ]
 }
