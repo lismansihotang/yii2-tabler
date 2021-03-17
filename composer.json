@@ -11,11 +11,6 @@
             "lismansihotang\\yii2tabler\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "lismansihotang\\yii2tabler\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Lisman Sihotang",
