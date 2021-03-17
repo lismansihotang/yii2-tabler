@@ -7,8 +7,13 @@
     },
     "license": "mit",
     "autoload": {
+        "psr-0": {
+            "lismansihotang\\yii2tabler\\": "src/"
+        }
+    },
+    "autoload-dev": {
         "psr-4": {
-            "lismansihotang\\yii2tabler\": "src/"
+            "lismansihotang\\yii2tabler\\": "src/"
         }
     },
     "authors": [
